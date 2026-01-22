@@ -11,11 +11,11 @@
 <a id="japanese"></a>
 ## 🇯🇵 日本語 (Japanese)
 
-Keycap Generator v66で導入された「内蔵アイコン (Stock Icons)」機能を拡張するための補助ツールです。SVGファイルをドラッグ＆ドロップするだけで、アイコンライブラリ定義ファイル（`icons.json`）を自動生成できます。
+Keycap Generator v66で導入された「📦 内蔵アイコン (Stock Icons)」機能を拡張するための補助ツールです。SVGファイルをドラッグ＆ドロップするだけで、アイコンライブラリ定義ファイル（`icons.json`）を自動生成できます。
 
 ### 🌐 関連リンク
-- **[ツールページ](https://hololocheck.github.io/Stock-Icons-Json-Generator/)**: **インストール不要。** ブラウザから最新版を直接利用できます。
-- **[Keycap Generator 本体](https://hololocheck.github.io/Keycap_Generator/)**: 親ツールはこちら。
+- **[ツールページ](https://hololocheck.github.io/Stock-Icons-Json-Generator/)**: ブラウザでこのツールを起動します。
+- **[Keycap Generator (GitHub)](https://github.com/hololocheck/Keycap_Generator)**: カスタム対象の本体リポジトリはこちら。
 
 ### ⚠️ 注意点
 このツールは、Keycap GeneratorのHTMLファイルをダウンロードして**ローカル環境（オフライン）**で実行し、独自のSVGアイコンを追加・カスタマイズしたいユーザー向けです。
@@ -42,8 +42,8 @@ Keycap Generator v66で導入された「内蔵アイコン (Stock Icons)」機�
 A helper tool designed to expand the "Stock Icons" feature introduced in Keycap Generator v66. It automatically generates the icon library definition file (`icons.json`) simply by dragging and dropping SVG files.
 
 ### 🌐 Related Resources
-- **[Tool Page](https://hololocheck.github.io/Stock-Icons-Json-Generator/)**: **No installation required.** Access the latest version directly in your browser.
-- **[Keycap Generator Main Tool](https://hololocheck.github.io/Keycap_Generator/)**: The parent tool.
+- **[Tool Page](https://hololocheck.github.io/Stock-Icons-Json-Generator/)**: Launch this tool in your browser.
+- **[Keycap Generator (GitHub)](https://github.com/hololocheck/Keycap_Generator)**: The main repository for customization.
 
 ### ⚠️ Important Notes
 This tool is specifically designed for users who download the HTML to run in a **local environment** and wish to manually customize or expand the icon library.
